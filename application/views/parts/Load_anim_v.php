@@ -1,0 +1,1 @@
+<img src="<?php echo base_url('') ?>assets/img/load_anim.svg">
